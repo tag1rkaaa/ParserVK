@@ -1,0 +1,6 @@
+.env
+vk_posts.csv
+__pycache__/
+*.pyc
+.idea/
+.vscode/
